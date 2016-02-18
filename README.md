@@ -1,4 +1,4 @@
-# RankHospital
+# Pollutant Mean
 R Programming Homework
 
 This is a homework from the R coursera course
